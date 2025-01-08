@@ -1,0 +1,2 @@
+# Ada Type Mismatch Example
+This repository demonstrates a common error in Ada programming involving type mismatches when performing operations on arrays. The `bug.ada` file contains code that attempts to use an operation on an array element that's not compatible with its declared type.  The solution (`bugSolution.ada`) provides a corrected version, highlighting proper type handling and array manipulation in Ada.
